@@ -1,0 +1,9 @@
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\bin\Debug\Quiz_1.exe
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\bin\Debug\Quiz_1.pdb
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.Form1.resources
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.Properties.Resources.resources
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.exe
+C:\Users\Yusuf Emre\Desktop\C#\Quiz_1\obj\Debug\Quiz_1.pdb
